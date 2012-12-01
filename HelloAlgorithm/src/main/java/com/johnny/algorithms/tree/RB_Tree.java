@@ -1,6 +1,6 @@
 package com.johnny.algorithms.tree;
 
-public class RB_Tree {
+public class RB_Tree extends BS_Tree{
 
 	/**
 	 * @param args
